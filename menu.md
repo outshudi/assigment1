@@ -4,4 +4,5 @@ panini
 ./panini/vegetariano.md
 primi
 ./fritti/olive_ascolane.md
+./fritti/arancini.md
 Paninoteca Padovana
