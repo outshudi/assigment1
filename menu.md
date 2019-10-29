@@ -2,4 +2,5 @@
 panini
 ./panini/primavera.md
 ./panini/vegetariano.md
+primi
 Paninoteca Padovana
